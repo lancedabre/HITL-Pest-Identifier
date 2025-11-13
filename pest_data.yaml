@@ -1,0 +1,11 @@
+path: /content/drive/MyDrive/PestDetector/datasets
+
+train: images/train
+val: images/val
+test: ../test/images
+
+nc: 3
+names: 
+  - 'aphids'
+  - 'fruit_flies'
+  - 'stink_bugs'
